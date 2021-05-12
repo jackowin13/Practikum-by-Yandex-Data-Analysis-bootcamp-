@@ -5,7 +5,7 @@ Tools:
 Python, pandas
 
 
-Compentencies:
+Competencies:
 Data preprocessing, grouping, lemmatization
 
 Brief conclusion:
